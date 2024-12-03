@@ -1,2 +1,2 @@
 echo Hello Jenkins from GitHub
-echo hello
+ech hello
